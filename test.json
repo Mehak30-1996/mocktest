@@ -1,0 +1,7 @@
+{
+  "projects":[
+    {"Project":"Hotel Management System", "Id":121, Start":"01/04/2020", "Size":10, "Location":"Tokyo", "Status":"Support"},
+    {"Project":"Reporting Tool", "Id":122,"Start":"05/01/2020", "Size":20, "Location":"Boston", "Status":"Support"},
+    {"Project":"Employee Management System", "Id":123,"Start":"08/02/2020", "Size":15, "Location":"New York", "Status":"Support"},
+    ]
+}
